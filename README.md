@@ -8,7 +8,7 @@
 
 
 ### Current Projects
-- Working on developing a [Discord bot](https://github.com/uwcsc/codeybot) for a server with over 2,000 people
+- Working on developing a [Discord bot](https://github.com/uwcsc/codeybot) for the [Computer Science Club](https://csclub.uwaterloo.ca/) at Waterloo
 - Creating a [learning platform](https://github.com/uwblueprint/rowan-house) for [Rowan House Society](https://www.rowanhouse.ca/)
 - New personal website!
 
