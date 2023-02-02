@@ -10,5 +10,5 @@
 ### Current Projects
 - Working on developing a [Discord bot](https://github.com/uwcsc/codeybot) for the [Computer Science Club](https://csclub.uwaterloo.ca/) at Waterloo
 - New [finance system](https://github.com/WATonomous/wato_finance_system) for WATonomous!
-- Part time at [vendia](https://vendia.net/)
+- Part time at [Vendia](https://vendia.net/)
 
