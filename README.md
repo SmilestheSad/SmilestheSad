@@ -9,5 +9,4 @@
 
 ### Current Projects
 - New [finance system](https://github.com/WATonomous/wato_finance_system) for WATonomous!
-- Intern at [Intuit](https://www.intuit.com/ca/)
 
